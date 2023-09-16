@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riyadh</h1>
-<h3 align="center">A cool developer and student</h3>
+<h3 align="center">A cool developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrriybot&label=Profile%20views&color=0e75b6&style=flat" alt="mrriybot" /> </p>
 
